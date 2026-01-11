@@ -1,3 +1,5 @@
+`include "neuronode.v"
+
 module neuronode_tb;
     reg x_in;
     reg y_in;
@@ -33,4 +35,5 @@ module neuronode_tb;
 
         $finish;
     end
+
 endmodule
