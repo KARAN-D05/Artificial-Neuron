@@ -41,7 +41,7 @@
     - x = 1, y = 1, Thus Sum = x + y = 10(2)
     - Sum ≥ Threshold, so Neuron Does fire, thus outputs 1
 
-- Therefore, by setting the threshold to 10 (2), it only fires when both of its inputs are 1, acting like an AND Logic gate
+- Therefore, by setting the threshold to 10 (2), it only fires when both of its inputs are 1, acting like an `AND Logic gate`
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@
     - x = 1, y = 1, Thus Sum = x + y = 10(2)
     - Sum ≥ Threshold, so Neuron Does fire, thus outputs 1
 
- - Therefore, by setting the threshold to 01 (1), it only fires when any or both of its inputs are 1, acting like an OR Logic gate
+ - Therefore, by setting the threshold to 01 (1), it only fires when any or both of its inputs are 1, acting like an `OR Logic gate`
