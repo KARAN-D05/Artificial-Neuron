@@ -1,4 +1,5 @@
 # 🧬 The McCulloch-Pitts Artificial Neuron
+- Also known as a neuronode
 - A simple computational model of a biological neuron
 - `Biological neuron:`
    - receives inputs via its tree-like projections called dendrites
