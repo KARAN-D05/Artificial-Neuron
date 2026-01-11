@@ -9,10 +9,13 @@
   MCP Neuron Waveform Analysis
 </p>  
 
-
 ## 🛠️ Current Development
 - [2-input Neuronode/MCP-Neuron](MCP-Neuron)
   - A 2-input computational model of a biological neuron capable of implementing basic boolean operations
+
+## 🚀 Future Versions
+- Multiple Input MCP Neuron
+- Adding weights to input
 
 ## 🤝 Similar Projects
 - [Gate Level Perceptron](https://github.com/KARAN-D05/Gate-Level-Perceptron)
