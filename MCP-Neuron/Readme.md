@@ -16,7 +16,7 @@
    - For AND gate θ = 2, so the neuron will only output 1 if both the inputs are 1. ( 1(A) + 1(B) ≥ 2(θ) ), similarly for OR gate θ = 1
 
 <p align="center">
-  <img src="images/Waveform.png" width="1500"
+  <img src="images/Waveform.png" width="2500"
 </p>
 
 <p align ="center">
