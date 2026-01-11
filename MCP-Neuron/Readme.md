@@ -1,4 +1,4 @@
-## 🧬 The McCulloch-Pitts Artificial Neuron
+# 🧬 The McCulloch-Pitts Artificial Neuron
 - A simple computational model of a biological neuron
 - `Biological neuron:`
    - receives inputs via its tree-like projections called dendrites
@@ -21,3 +21,42 @@
 <p align ="center">
   MCP Neuron Waveform Analysis
 </p>  
+
+## 〰️ Waveform
+- From 0 - 40 Seconds: Threshold(θ) is set to 10(2)
+   - 0 - 10 seconds ->
+     - x = 0, y = 0, Thus Sum = x + y = 0
+     - Sum < Threshold, so Neuron Does not fire, thus outputs 0
+    
+  - 10 - 20 seconds ->
+    - x = 0, y = 1, Thus Sum = x + y = 1
+    - Sum < Threshold, so Neuron Does not fire, thus outputs 0
+   
+  - 20 - 30 seconds ->
+    - x = 1, y = 0, Thus Sum = x + y = 1
+    - Sum < Threshold, so Neuron Does not fire, thus outputs 0
+
+   - 30 - 40 seconds ->
+    - x = 1, y = 1, Thus Sum = x + y = 10(2)
+    - Sum ≥ Threshold, so Neuron Does fire, thus outputs 1
+
+ - Therefore, by setting the threshold to 10 (2), it only fires when both of its inputs are 1, acting like an AND Logic gate
+
+- From 40 - 80 Seconds: Threshold(θ) is set to 01(1)
+   - 40 - 50 seconds ->
+     - x = 0, y = 0, Thus Sum = x + y = 0
+     - Sum < Threshold, so Neuron Does not fire, thus outputs 0
+    
+  - 50 - 60 seconds ->
+    - x = 0, y = 1, Thus Sum = x + y = 1
+    - Sum ≥ Threshold, so Neuron Does fire, thus outputs 1
+   
+  - 60 - 70 seconds ->
+    - x = 1, y = 0, Thus Sum = x + y = 1
+    - Sum ≥ Threshold, so Neuron Does fire, thus outputs 1
+
+   - 70 - 80 seconds ->
+    - x = 1, y = 1, Thus Sum = x + y = 10(2)
+    - Sum ≥ Threshold, so Neuron Does fire, thus outputs 1
+
+ - Therefore, by setting the threshold to 01 (1), it only fires when any or both of its inputs are 1, acting like an OR Logic gate
