@@ -23,6 +23,15 @@
   MCP Neuron Waveform Analysis
 </p>  
 
+<p align="center">
+  <img src="images/Output_Terminal.png" width="700"
+</p>
+
+<p align ="center">
+  Output Terminal
+</p>  
+
+
 ## 〰️ Waveform
 - From 0 - 40 Seconds: Threshold(θ) is set to 10(2)
    - 0 - 10 seconds ->
@@ -63,11 +72,3 @@
     - Sum ≥ Threshold, so Neuron Does fire, thus outputs 1
 
  - Therefore, by setting the threshold to 01 (1), it only fires when any or both of its inputs are 1, acting like an `OR Logic gate`
-
-<p align="center">
-  <img src="images/Output_Terminal.png" width="600"
-</p>
-
-<p align ="center">
-  Output Terminal
-</p>  
