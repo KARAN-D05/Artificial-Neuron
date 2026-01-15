@@ -16,7 +16,8 @@ module neuronode_tb;
     initial begin
         $dumpfile("neuronode.vcd");
         $dumpvars(0, neuronode_tb);
-
+        $monitor("t = %0t | x_in = %b | y_in = %b | fire_out = %b", $time, x_in, y_in, fire_out);
+        
         $display("Testing Threshold = 2 (AND Logic)");
         thresh_in = 2; 
         
@@ -37,3 +38,4 @@ module neuronode_tb;
     end
 
 endmodule
+
