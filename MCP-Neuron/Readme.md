@@ -65,7 +65,7 @@
  - Therefore, by setting the threshold to 01 (1), it only fires when any or both of its inputs are 1, acting like an `OR Logic gate`
 
 <p align="center">
-  <img src="Output_Terminal.png" width="600"
+  <img src="images/Output_Terminal.png" width="600"
 </p>
 
 <p align ="center">
