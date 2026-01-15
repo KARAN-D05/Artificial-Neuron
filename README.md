@@ -10,7 +10,7 @@
 </p>  
 
 <p align="center">
-  <img src="MCP-Neuron/images/Output_Terminal.png" width="800"
+  <img src="MCP-Neuron/images/Output_Terminal.png" width="400"
 </p>
 
 <p align ="center">
