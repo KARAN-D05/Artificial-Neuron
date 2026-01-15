@@ -24,7 +24,7 @@
 </p>  
 
 <p align="center">
-  <img src="images/Output_Terminal.png" width="700"
+  <img src="images/Output_Terminal.png" width="400"
 </p>
 
 <p align ="center">
