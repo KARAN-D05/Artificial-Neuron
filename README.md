@@ -9,6 +9,15 @@
   MCP Neuron Waveform Analysis
 </p>  
 
+<p align="center">
+  <img src="MCP-Neuron/images/Output-Terminal.png" width="2500"
+</p>
+
+<p align ="center">
+  Output Terminal
+</p>  
+
+
 ## 🛠️ Current Development
 - [MCP-Neuron](MCP-Neuron): A 2-input computational model of a biological neuron capable of implementing basic boolean operations
 
