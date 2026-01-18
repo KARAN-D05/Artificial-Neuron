@@ -6,18 +6,18 @@
 </p>
 
 <p align ="center">
-  MCP Neuron Waveform Analysis
+  Waveform Analysis - Verilog
 </p>  
 
 <table align="center">
   <tr>
     <td align="center" style="padding-right: 50px;">
       <img src="MCP-Neuron_v0/images/AND-Emulation.png" width="400"><br>
-        MCP-Neuron AND-Emulation in Python
+          AND-Emulation - Python
     </td>
     <td align="center" style="padding-left: 50px;">
       <img src="MCP-Neuron_v0/images/OR-Emulation.png" width="410"><br>
-       MCP-Neuron OR-Emulation in Python
+          OR-Emulation - Python
     </td>
   </tr>
 </table>
