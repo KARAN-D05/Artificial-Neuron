@@ -9,17 +9,18 @@
   MCP Neuron Waveform Analysis
 </p>  
 
-<p align="center">
-  <figure style="display: inline-block; margin-right: 50px;">
-    <img src="MCP-Neuron_v0/images/AND-Emulation.png" width="300" />
-    <figcaption align="center">MCP-Neuron AND-Emulation in Python</figcaption>
-  </figure>
-
-  <figure style="display: inline-block; margin-left: 50px;">
-    <img src="MCP-Neuron_v0/images/OR-Emulation.png" width="300" />
-    <figcaption align="center">MCP-Neuron OR-Emulation in Python</figcaption>
-  </figure>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="MCP-Neuron_v0/images/AND-Emulation.png" width="300"><br>
+      MCP-Neuron AND-Emulation in Python
+    </td>
+    <td align="center">
+      <img src="MCP-Neuron_v0/images/OR-Emulation.png" width="300"><br>
+      MCP-Neuron OR-Emulation in Python
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Current Development
 - [MCP-Neuron_v0](MCP-Neuron_v0): A 2-input computational model of a biological neuron capable of implementing basic boolean operations.
