@@ -16,8 +16,8 @@
         MCP-Neuron AND-Emulation in Python
     </td>
     <td align="center" style="padding-left: 50px;">
-      <img src="MCP-Neuron_v0/images/OR-Emulation.png" width="400"><br>
-      <b>MCP-Neuron OR-Emulation in Python</b>
+      <img src="MCP-Neuron_v0/images/OR-Emulation.png" width="420"><br>
+       MCP-Neuron OR-Emulation in Python
     </td>
   </tr>
 </table>
