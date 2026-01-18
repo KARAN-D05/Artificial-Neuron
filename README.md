@@ -11,12 +11,12 @@
 
 <p align="center">
   <figure style="display: inline-block; margin-right: 50px;">
-    <img src="MCP_Neuron_v0/images/AND-Emulation.png" width="500" />
+    <img src="MCP-Neuron_v0/images/AND-Emulation.png" width="500" />
     <figcaption align="center">MCP-Neuron AND-Emulation in Python</figcaption>
   </figure>
 
   <figure style="display: inline-block; margin-left: 50px;">
-    <img src="MCP_Neuron_v0/images/OR-Emulation.png" width="500" />
+    <img src="MCP-Neuron_v0/images/OR-Emulation.png" width="500" />
     <figcaption align="center">MCP-Neuron OR-Emulation in Python</figcaption>
   </figure>
 </p>
