@@ -31,4 +31,4 @@
 - Inhibitory weights
 
 ## 🤝 Similar Projects
-- [Gate Level Perceptron](https://github.com/KARAN-D05/Gate-Level-Perceptron): Building a Self Learning Pattern Recognition engine to explore how learning is implemented in hardware.
+- [Gate Level Perceptron](https://github.com/KARAN-D05/Gate-Level-Perceptron): Building a Self Learning Pattern Recognition engine to implement learning in hardware.
