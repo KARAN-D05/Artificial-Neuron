@@ -32,3 +32,7 @@
 
 ## 🤝 Similar Projects
 - [Gate Level Perceptron](https://github.com/KARAN-D05/Gate-Level-Perceptron): Building a Self Learning Pattern Recognition engine to implement learning in hardware.
+
+## 📜 License
+- Source code, HDL, and Logisim circuit files are licensed under the MIT License.
+- Documentation, diagrams, images, and PDFs are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
