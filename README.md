@@ -23,9 +23,9 @@
 </table>
 
 ## ⚙️ Implementation Stack
-![Verilog](https://img.shields.io/badge/Verilog-FFEA00?style=for-the-badge&logoColor=black)
-![Python](https://img.shields.io/badge/Python-00B0FF?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-9C27B0?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-FFEA00?style=for-the-badge&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00B0FF?style=for-the-badge&logo=python&logocolor=white)
+![VHDL](https://img.shields.io/badge/VHDL-9C27B0?style=for-the-badge&logo=vhdl&logocolor=white)
 
 ## 🛠️ Current Development
 - [MCP-Neuron_v0](MCP-Neuron_v0): A 2-input computational model of a biological neuron capable of implementing basic boolean operations.
