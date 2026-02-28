@@ -31,7 +31,7 @@
 - [MCP-Neuron_v0](MCP-Neuron_v0): A 2-input computational model of a biological neuron capable of implementing basic boolean operations.
 
 <p align="center">
-  <img src="MCP-Neuron_v0/images/Block-Diagram.png" width="2500"
+  <img src="MCP-Neuron_v0/images/Block-diagram.png" width="2500"
 </p>
 
 <p align ="center">
