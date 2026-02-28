@@ -35,7 +35,7 @@
 </p>
 
 <p align ="center">
-  Block-Diagram
+  
 </p>  
 
 ## 🚀 Future Versions
