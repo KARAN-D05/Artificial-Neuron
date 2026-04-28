@@ -5,7 +5,7 @@ module neuronode_not(
     output reg fire
 );
  
-  assign sum = -x;
+  assign sum = -x; // Inhibitory Weight
 
   always@(*) begin
         if ( sum >= thresh ) begin
