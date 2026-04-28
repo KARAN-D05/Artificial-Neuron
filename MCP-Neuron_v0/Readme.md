@@ -1,4 +1,4 @@
-# 🧬 The McCulloch-Pitts Artificial Neuron - MCP Neuron
+# 🧬 The McCulloch-Pitts Neuron - MCP Neuron
 - Also known as a neuronode
 - A simple computational model of a biological neuron
 - `Biological neuron:`
