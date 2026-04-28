@@ -24,6 +24,7 @@
 
 ## ⚙️ Implementation Stack
 ![Verilog](https://img.shields.io/badge/Verilog-FFEA00?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-00B0EF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-00B0FF?style=for-the-badge)
 
 ## 🛠️ Current Development
