@@ -24,7 +24,7 @@
 
 ## ⚙️ Implementation Stack
 ![Verilog](https://img.shields.io/badge/Verilog-FFEA00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-AA0EF?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-00B0FF?style=for-the-badge)
 
 ## 🛠️ Current Development
 - [MCP-Neuron_v0](MCP-Neuron_v0): A 2-input computational model of a biological neuron capable of implementing basic boolean operations.
