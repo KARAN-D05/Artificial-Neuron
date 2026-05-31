@@ -13,11 +13,11 @@
   <tr>
     <td align="center" style="padding-right: 50px;">
       <img src="MCP-Neuron_v0/images/AND-Emulation.png" width="400"><br>
-          AND-Emulation - Python
+         <sub></b> AND-Emulation - Python
     </td>
     <td align="center" style="padding-left: 50px;">
       <img src="MCP-Neuron_v0/images/OR-Emulation.png" width="410"><br>
-          OR-Emulation - Python
+         <sub></b> OR-Emulation - Python
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 </p>
 
 <p align ="center">
-  MCP Neuron - AND and OR Emulation
+ <sub></b> MCP Neuron - AND and OR Emulation
 </p>  
 
 ## 🚀 Future Versions
