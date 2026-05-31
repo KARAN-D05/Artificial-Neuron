@@ -6,7 +6,7 @@
 </p>
 
 <p align ="center">
-  Waveform Analysis - Verilog
+  <sub></b> Waveform Analysis - Verilog
 </p>  
 
 <table align="center">
