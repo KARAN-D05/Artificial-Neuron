@@ -35,7 +35,7 @@
 </p>
 
 <p align ="center">
-  
+  MCP Neuron - AND and OR Emulation
 </p>  
 
 ## 🚀 Future Versions
