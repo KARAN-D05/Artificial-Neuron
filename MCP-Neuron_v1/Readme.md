@@ -3,7 +3,7 @@
 </p>
 
 <p align ="center">
-  Waveform Analysis - Verilog
+ <sub></b> Waveform Analysis - Verilog
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@
 </p>
 
 <p align ="center">
-  Output Terminal
+ <sub></b> Output Terminal
 </p>
