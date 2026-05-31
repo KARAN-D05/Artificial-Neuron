@@ -27,7 +27,8 @@
 ![Python](https://img.shields.io/badge/Python-00B0FF?style=for-the-badge)
 
 ## 🛠️ Current Development
-- [MCP-Neuron_v0](MCP-Neuron_v0): A 2-input computational model of a biological neuron capable of implementing basic boolean operations.
+- [MCP-Neuron_v0](MCP-Neuron_v0): A 2-input computational model of a neuron capable of implementing AND and OR Logic.
+- [MCP-Neuron_v1](MCP-Neuron_v1): A 2-input computational model of a neuron with inhibitory weights capable of implementing NOT Logic.
 
 <p align="center">
   <img src="MCP-Neuron_v0/images/Block-diagram.png" width="2500"
