@@ -20,7 +20,7 @@
 </p>
 
 <p align ="center">
-  MCP Neuron Waveform Analysis
+ <sub></b> MCP Neuron Waveform Analysis
 </p>  
 
 ## 〰️ Waveform
@@ -48,7 +48,7 @@
 </p>
 
 <p align ="center">
-  Output Terminal ($monitor)
+  <sub></b> Output Terminal ($monitor)
 </p>  
 
 - From 40 - 80 Seconds: Threshold(θ) is set to 01(1)
