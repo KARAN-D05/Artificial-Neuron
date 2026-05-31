@@ -11,5 +11,5 @@
 </p>
 
 <p align ="center">
-  Waveform Analysis - Verilog
+  Output Terminal
 </p>
