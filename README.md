@@ -1,5 +1,5 @@
 # 🧠 Artificial-Neuron
-- A 2-input neuron node that sums binary inputs and produces an output based on a programmable threshold. With different threshold values, the neuron can emulate basic logic functions such as AND and OR, and With inhibitory weights, capable of emulating NOT Behaviour.
+- A 2-input neuron node that sums binary inputs and produces an output based on a programmable threshold. With different threshold values, the neuron can emulate basic logic functions such as AND and OR, and With inhibitory weights, can emulate NOT logical function.
 
 <p align="center">
   <img src="MCP-Neuron_v0/images/Waveform.png" width="2500"
