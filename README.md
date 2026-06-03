@@ -38,10 +38,6 @@
  <sub></b> MCP Neuron - AND and OR Emulation
 </p>  
 
-## 🚀 Future Versions
-- Multiple Input MCP Neuron
-- Adding weights to input
-
 ## 🤝 Similar Projects
 [Gate Level Perceptron](https://github.com/KARAN-D05/Gate-Level-Perceptron): Building a Self Learning Pattern Recognition engine to implement learning in hardware.
 
