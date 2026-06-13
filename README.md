@@ -40,7 +40,9 @@
 
 ## 🤝 Similar Projects
 [Gate-Level Cybernetic Classifier](https://github.com/KARAN-D05/Gate-Level-Perceptron)
+```
 An Adaptive Learning System Capable of autonomously altering its decision boundaries based on error feedback
+```
 
 ## ⬇️ Download This Repository
 
