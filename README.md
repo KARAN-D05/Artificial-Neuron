@@ -39,7 +39,7 @@
 </p>  
 
 ## 🤝 Similar Projects
-[Adaptive Learning System](https://github.com/KARAN-D05/Gate-Level-Perceptron): Capable of autonomously altering its decision boundaries based on error feedback
+- [Adaptive Learning System](https://github.com/KARAN-D05/Gate-Level-Perceptron): Capable of autonomously altering its decision boundaries based on error feedback
 
 ## ⬇️ Download This Repository
 
