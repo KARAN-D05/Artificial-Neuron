@@ -32,6 +32,12 @@
 ![Verilog](https://img.shields.io/badge/Verilog-FFEA00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-00B0FF?style=for-the-badge)
 
+## 🧰 Toolchain
+![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-1E88E5?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-8E24AA?style=for-the-badge)
+![Yosys](https://img.shields.io/badge/Yosys-F4511E?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ## 🛠️ Current Development
 - [MCP-Neuron_v0](MCP-Neuron_v0): A 2-input computational model of a neuron capable of implementing AND and OR Logic.
 - [MCP-Neuron_v1](MCP-Neuron_v1): A 2-input computational model of a neuron with inhibitory weights capable of implementing NOT Logic.
