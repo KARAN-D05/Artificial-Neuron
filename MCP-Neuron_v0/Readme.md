@@ -2,7 +2,7 @@
 - Also known as a neuronode
 - A simple computational model of a biological neuron
 - `Biological neuron:`
-   - receives inputs via its tree-like projections called dendrites
+   - receives inputs via its tree-like projections called the dendrites
    - The cell body then performs computation on these inputs
    - Based on results of the computation, it may send an electrical signal through the axon toward axon-terminals which in turn communicate it to other neurons
    - This forms a biological neural network
