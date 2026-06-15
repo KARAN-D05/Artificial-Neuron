@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="MCP-Neuron_v0/images/Waveform.png" width="2500"
-</p>
 
 <p align ="center">
   <sub></b> Waveform Analysis - Verilog
@@ -39,7 +38,6 @@
 
 <p align="center">
   <img src="MCP-Neuron_v0/images/Block-diagram.png" width="2500"
-</p>
 
 <p align ="center">
  <sub></b> MCP Neuron - AND and OR Emulation
