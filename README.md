@@ -9,6 +9,14 @@
   <sub></b> RTL Synthesis
 </p>  
 
+<p align="center">
+  <img src="MCP-Neuron_v0/images/Waveform.png" width="2500"
+</p>
+
+<p align ="center">
+  <sub></b> Waveform Analysis - Verilog
+</p>  
+
 <table align="center">
   <tr>
     <td align="center" style="padding-right: 50px;">
