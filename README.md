@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="MCP-Neuron_v0/images/yosys-synthesis.png" width="2500"
-</p>
 
 <p align ="center">
   <sub></b> RTL Synthesis
