@@ -7,9 +7,17 @@
 </p>
 
 <p align="center">
+  <img src="images/rtl-synthesis.png" width="2500"
+</p>
+
+<p align ="center">
+ <sub></b> Synthesis
+</p>
+
+<p align="center">
   <img src="images/out-terminal-not.png" width="2500"
 </p>
 
 <p align ="center">
- <sub></b> Terminal
+ <sub></b> Output Terminal
 </p>
