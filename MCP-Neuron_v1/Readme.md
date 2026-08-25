@@ -11,5 +11,5 @@
 </p>
 
 <p align ="center">
- <sub></b> Output Terminal
+ <sub></b> Terminal
 </p>
