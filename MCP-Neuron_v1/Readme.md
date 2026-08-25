@@ -3,7 +3,7 @@
 </p>
 
 <p align ="center">
- <sub></b> Waveform Analysis - Verilog
+ <sub></b> Waveform Analysis
 </p>
 
 <p align="center">
