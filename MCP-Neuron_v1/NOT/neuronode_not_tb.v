@@ -1,11 +1,11 @@
-`include "neuronode_not.v"
+`include "neuronode_not.sv"
 
 module testbench;
 
-  reg x;
-  reg signed [1:0] thresh;
-  wire signed [1:0] sum;
-  wire fire;
+  logic x;
+  logic signed [1:0] thresh;
+  logic signed [1:0] sum;
+  logic fire;
 
   neuronode_not dut(
     .x(x),
