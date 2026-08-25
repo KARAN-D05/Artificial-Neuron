@@ -12,7 +12,7 @@
   <img src="MCP-Neuron_v0/images/Waveform.png" width="2500"
 
 <p align ="center">
-  <sub></b> Waveform Analysis - Verilog
+  <sub></b> Waveform Analysis
 </p>  
 
 <table align="center">
