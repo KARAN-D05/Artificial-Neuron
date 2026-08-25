@@ -1,3 +1,4 @@
+// 2 Input MCP Neuron
 module neuronode (
   input logic x,
   input logic y,
