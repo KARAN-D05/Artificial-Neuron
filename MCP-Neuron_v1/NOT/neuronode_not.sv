@@ -1,13 +1,13 @@
 module neuronode_not(
-    input x,
-    input signed [1:0] thresh,
-    output signed [1:0] sum,
-    output reg fire
+    input logic x,
+    input logic signed [1:0] thresh,
+    output logic signed [1:0] sum,
+    output logic fire
 );
  
-  assign sum = -x; // Inhibitory Weight
+  assign sum = -x;
 
-  always@(*) begin
+  always_comb begin
         if ( sum >= thresh ) begin
             fire = 1'b1;
         end else begin
