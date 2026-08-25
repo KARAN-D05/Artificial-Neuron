@@ -1,4 +1,3 @@
-// NOT-Emulation
 module neuronode_not(
     input logic x,
     input logic signed [1:0] thresh,
